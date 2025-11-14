@@ -1,0 +1,1 @@
+# Do-kali-linux-afer-nalerz-i-co-to-jest.
