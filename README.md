@@ -4,3 +4,4 @@ Zakaz dodruku pieniedzy i dodruku rzeczy z internetu rzeczy 5G.
 Tylko małe post zakupy. 
 Zakaz robotyki.
 Zakaz dueżej zimy i niskich temeratur.
+Kali linux karze ludzią zbierać złom. 
